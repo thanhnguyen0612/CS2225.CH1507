@@ -1,4 +1,4 @@
 # CS2225.CH1507 - Nhóm 7
-Mai Phương Nga	N007  
-Nguyễn Như Thanh	N007  
-Trần Hiếu Đại	N007
+CH2001010	Mai Phương Nga  
+CH2001015	Nguyễn Như Thanh  
+CH2001001	Trần Hiếu Đại
